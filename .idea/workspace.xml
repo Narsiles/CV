@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dabc8593-baa4-4eed-aebc-5dbb96e03a98" name="Changes" comment="test3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dabc8593-baa4-4eed-aebc-5dbb96e03a98" name="Changes" comment="test4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +18,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowCommit.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -33,7 +32,7 @@
       <updated>1634556621752</updated>
       <workItem from="1634556623259" duration="744000" />
       <workItem from="1634557996766" duration="1113000" />
-      <workItem from="1634559476121" duration="627000" />
+      <workItem from="1634559476121" duration="970000" />
     </task>
     <task id="LOCAL-00001" summary="dfg">
       <created>1634559512728</created>
@@ -49,7 +48,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634559752932</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test4">
+      <created>1634560283841</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1634560283841</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,6 +76,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dfg" />
     <MESSAGE value="test3" />
-    <option name="LAST_COMMIT_MESSAGE" value="test3" />
+    <MESSAGE value="test4" />
+    <option name="LAST_COMMIT_MESSAGE" value="test4" />
   </component>
 </project>
