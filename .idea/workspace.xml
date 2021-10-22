@@ -10,6 +10,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="666285ed-fff8-4b37-b1b3-9855fdbbaa04" />
+        <option name="url" value="https://github.com/Narsiles/CV.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectId" id="1zg4uhv0V1Xtts1OMJKgT6jlfUW" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,8 +29,14 @@
     <property name="ToolWindowCommit.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tinon\Documents\Prog\cv" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -35,7 +49,7 @@
       <workItem from="1634556623259" duration="744000" />
       <workItem from="1634557996766" duration="1113000" />
       <workItem from="1634559476121" duration="1659000" />
-      <workItem from="1634914799859" duration="5166000" />
+      <workItem from="1634914799859" duration="5348000" />
     </task>
     <task id="LOCAL-00001" summary="dfg">
       <created>1634559512728</created>
