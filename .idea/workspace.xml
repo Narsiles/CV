@@ -20,6 +20,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ToolWindowCommit.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -33,6 +35,7 @@
       <workItem from="1634556623259" duration="744000" />
       <workItem from="1634557996766" duration="1113000" />
       <workItem from="1634559476121" duration="1659000" />
+      <workItem from="1634914799859" duration="5166000" />
     </task>
     <task id="LOCAL-00001" summary="dfg">
       <created>1634559512728</created>
